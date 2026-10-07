@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /no-index.html
-Sitemap: https://TU-USUARIO.github.io/TU-REPOSITORIO/sitemap.xml
+Sitemap: https://nzuttion-collab.github.io/nicolas-diagnostico-gsc/sitemap.xml
